@@ -1,2 +1,2 @@
 # plusBracketConverter
-Convert Text to "+[]" javascript symbols!
+Convert Text to "+[]" javascript symbols
